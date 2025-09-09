@@ -1,0 +1,8 @@
+bo\edu\ucb\ms\accounting\dto\JournalDto.class
+bo\edu\ucb\ms\accounting\repository\JournalRepository.class
+bo\edu\ucb\ms\accounting\entity\Journal.class
+bo\edu\ucb\ms\accounting\AccountingApplication.class
+bo\edu\ucb\ms\accounting\entity\Journal$Status.class
+bo\edu\ucb\ms\accounting\controller\JournalController.class
+bo\edu\ucb\ms\accounting\entity\Journal$BalanceType.class
+bo\edu\ucb\ms\accounting\service\JournalService.class
